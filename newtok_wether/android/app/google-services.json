@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586156810034",
+    "project_id": "wetherapp-b95dd",
+    "storage_bucket": "wetherapp-b95dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586156810034:android:0bfe3dce1e0db30d81412b",
+        "android_client_info": {
+          "package_name": "com.example.newtok_wether"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgjYXEOVoC4J1f60E29ITc_Qlno_jsd5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
